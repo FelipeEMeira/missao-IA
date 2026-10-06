@@ -14,7 +14,10 @@ const perguntas = [
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                afirmacao:[
+                    "No inicio ficou com medo do que essa tecnologia pode fazer. "
+                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando. ",
+                ],
             }           
             
         ]
